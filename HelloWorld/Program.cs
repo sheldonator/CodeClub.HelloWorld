@@ -54,7 +54,7 @@ namespace HelloWorld
                     Console.WriteLine(world[i]);
                 }
 
-            Console.Write("\nPress any key to exit...");
+            Console.Write("\nGoodbye! Press any key to exit...");
             Console.ReadKey(true);
         }
 
